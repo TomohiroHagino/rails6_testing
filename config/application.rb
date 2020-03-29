@@ -22,6 +22,7 @@ module Baukis2
       g.test_framework false
       g.controller_specs false
       g.view_specs false
+      g.model_specs true
     end
   end
 end
